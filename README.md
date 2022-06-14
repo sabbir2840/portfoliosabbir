@@ -9,4 +9,4 @@ A clean and nice web portfolio for me. That includes HTML, CSS and  JavaScript. 
 This is portfolio is fully responsive. 
 
 
-![preview img](/preview.png)
+![](/pre.png)
