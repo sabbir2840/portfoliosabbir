@@ -1,9 +1,12 @@
-# Portfolio Responsive Complete
+# Portfolio: Responsive website using HTML, CSS and JavaScript
+#This is done as a academic project.
 
-### Portfolio responsive complete
-A clean and nice web portfolio for me. That includes HTML, CSS and  JavaScript. At first, your name, links to social networks and a great image. Then the About section displays more information about you. Then the list of Skills it offers. It also has a section where it shows some recent work. And at the bottom it has a form, and at the end with a footer.
+#    Md Sabbir Hossain
+#    ID: 192-15-2840
 
-Don't forget to join the channel for more videos like this.
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
+A clean and nice web portfolio for me. That includes HTML, CSS and  JavaScript. At first, in the first section include about me, links to social networks and a great image. Then the About section displays more information about me. Then my objective, about cyber security.  Then the list of Skills it offers. It also has a section where i include my academic projects. And at the bottom it has a form for contact with me, and at the end i added a footer.
+
+This is portfolio is fully responsive. 
+
 
 ![preview img](/preview.png)
